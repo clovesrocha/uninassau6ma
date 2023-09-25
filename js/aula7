@@ -1,0 +1,31 @@
+### Seção 1: Introdução ao JavaScript (CODE COMBAT)
+1. **O que é JavaScript?**
+   - Leia sobre o que é JavaScript e sua importância no desenvolvimento web.
+
+2. **Configurando o Ambiente de Desenvolvimento**
+   - Escolha um editor de código (como Visual Studio Code) e um navegador da web (como Google Chrome).
+   - Crie um arquivo HTML básico e inclua um arquivo JavaScript usando a tag `<script>`.
+
+3. **Sintaxe Básica**
+   - Aprenda sobre variáveis, tipos de dados (números, strings, booleanos), comentários e como declarar variáveis.
+### Seção 2: Controle de Fluxo
+4. **Estruturas de Controle de Fluxo**
+   - Entenda as declarações `if`, `else if` e `else` para tomar decisões condicionais.
+
+5. **Loops**
+   - Aprenda sobre loops `for` e `while` para executar código repetidamente.
+### Seção 3: Funções
+6. **Funções**
+   - Crie funções simples com parâmetros e retorne valores.
+
+7. **Escopo de Variáveis**
+   - Compreenda o escopo global e local das variáveis.
+### Seção 4: Manipulação de DOM
+8. **O que é o DOM?**
+   - Aprenda o que é o Document Object Model (DOM) e como ele representa a estrutura de uma página web.
+
+9. **Selecionando Elementos**
+   - Use `document.querySelector()` e `document.querySelectorAll()` para selecionar elementos HTML.
+
+10. **Manipulando Elementos**
+    - Modifique o conteúdo, atributos e estilos de elementos HTML.
